@@ -24,10 +24,12 @@ menu{
 #content {
   margin-left: 300px;
   padding: 30px;
+  width: 800px;
+  height: 3000px;
 }
 
 img {
-  height: 300px;
+  width: 600px;
 }
 
 /*-------*/
@@ -48,9 +50,10 @@ h2 {
 
 p {
   font-family: "lato", arial;
+  font-size: 16px;
 }
 
 a {
-  text-decoration: none;
-  color: #ccc;
+  text-decoration: line-through;
+  color: #000;
 }
