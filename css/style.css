@@ -65,3 +65,8 @@ a {
   text-decoration: line-through;
   color: #000;
 }
+
+sub {
+  line-height: 16px;
+}
+
